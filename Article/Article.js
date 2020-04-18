@@ -157,6 +157,7 @@ const data = [
       component.classList.toggle('article-open');
     })
   
+    
     component.appendChild(articleTitle);
     component.appendChild(articleDate);
     component.appendChild(paragraphOne);
